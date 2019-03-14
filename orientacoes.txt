@@ -1,0 +1,28 @@
+INSTALAR O EXPRESS
+    npm install --save express
+
+INSTALAR O HANDLEBARS
+    npm install --save express-handlebars
+
+INSTALAR O BODY-PARSER
+    npm install --save body-parser
+
+INSTALAR O MOnGOOSE
+    npm install --save mongoose
+
+INSTALAR O EXPRESS-SESSION
+    npm install --save express-session
+
+INSTALAR O MODULO CONNECT-FLASH
+    npm install --save connect-flash
+
+
+
+Assiti até a aula 35 - Definindo o model de categorias
+37 - O que são sessões e cookies
+38 - Middlewares
+39 - Como configurar sessoes
+40 - Como validar formulários
+41 - Listando categorias
+42 - Editando categorias
+43 - Deletando categorias
