@@ -5,20 +5,26 @@ url https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcN
 
 #### Pacotes usados no decorre do curso:
 
-INSTALAR O EXPRESS
+[] - INSTALAR O EXPRESS
     `npm install --save express`
 
-INSTALAR O HANDLEBARS
+[] - INSTALAR O HANDLEBARS
     `npm install --save express-handlebars`
 
-INSTALAR O BODY-PARSER
+[] - INSTALAR O BODY-PARSER
     `npm install --save body-parser`
 
-INSTALAR O MOnGOOSE
+[] - INSTALAR O MONGOOSE
     `npm install --save mongoose`
 
-INSTALAR O EXPRESS-SESSION
+[] - INSTALAR O EXPRESS-SESSION
     `npm install --save express-session`
 
-INSTALAR O MODULO CONNECT-FLASH
+[] - INSTALAR O MODULO CONNECT-FLASH
     `npm install --save connect-flash`
+
+[] - FAZER AS CONFIGURAÇÕES DO APP PARA FAZER USOS DOS PACOTES
+    ``CONFIGURAR SESSÃO``
+    ``CONFIGURAR MIDLEWARE``
+    ``CONFIGURAR O BODYPARSER``
+    ``CONFIGURAR O HANDLEBAR``
